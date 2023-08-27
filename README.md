@@ -1,7 +1,7 @@
-# 🍣 Sushi Shop React + Vite App with AOS Animation 🍣
+# 🍣 Sushi Shop Vite App with AOS Animation 🍣
 
 
-Welcome to the Sushi Shop repository!👋  This project is a dynamic single landing page application built using the React framework with Vite as the build tool. The landing page showcases a modern and visually appealing design for a fictional sushi restaurant, complete with stunning animations powered by the AOS (Animate On Scroll) library.
+Welcome to the Sushi Shop repository!👋  This project is a dynamic single landing page application built using Vite as the build tool. The landing page showcases a modern and visually appealing design for a fictional sushi restaurant, complete with stunning animations powered by the AOS (Animate On Scroll) library.
 
 Demo : [Sushi-shop](https://sushishop1.netlify.app/)
 
