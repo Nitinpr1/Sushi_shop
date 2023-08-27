@@ -3,6 +3,8 @@
 
 Welcome to the Sushi Shop repository!👋  This project is a dynamic single landing page application built using the React framework with Vite as the build tool. The landing page showcases a modern and visually appealing design for a fictional sushi restaurant, complete with stunning animations powered by the AOS (Animate On Scroll) library.
 
+Demo : [Sushi-shop](https://sushishop1.netlify.app/)
+
 Features 🚀:
 
 - 🍣 Sleek Design: The landing page features a sleek and modern design that reflects the ambiance of a high-end sushi restaurant.
@@ -21,7 +23,7 @@ Installation
 * 👉 Start the development server: npm run dev
 * 👉 Open your browser and visit: http://localhost:3000 to see the Sushi Shop landing page in action.
 
-Demo : [Sushi-shop](https://sushishop1.netlify.app/)
+
 
 Screen Shot:
 
